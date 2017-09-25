@@ -16,9 +16,9 @@ A custom Osu! server I'm developing from the old [Ripple](https://github.com/osu
 I'm looking for people who would be happy to help out with this project, I think there is a lack of custom Osu! servers available and I want to try and develop a new and different Osu! server and if you're willing to help out, please get in touch with me on [Discord](https://discord.gg/QWCxSp2).
 
 Once again, huge thanks to the guys from the Ripple-Dev team, take a look at these links:
-Ripple: https://ripple.moe
-Ripple Discord: https://discord.gg/2cTPzzz
-Ripple GitHub: https://github.com/osuripple
+* Ripple: https://ripple.moe
+* Ripple Discord: https://discord.gg/2cTPzzz
+* Ripple GitHub: https://github.com/osuripple
 
 We're using an MIT license which allows you to do basically anything with our code. 
 
