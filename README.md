@@ -7,7 +7,6 @@ A custom Osu! server I'm developing from the old [Ripple](https://github.com/osu
 * __Ripple Python Common__ - Common code used to link Bancho and Lets but is currently only used for Lets as Bancho is outdated
 
 # To-Do (25/09/17)
-* Add LICENSE to repo
 * Fix avatar server
 * Update Bancho to work with Lets
 * Add beatmap ranking from the Admin Panel
