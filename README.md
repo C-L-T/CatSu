@@ -20,6 +20,6 @@ Once again, huge thanks to the guys from the Ripple-Dev team, take a look at the
 * Ripple Discord: https://discord.gg/2cTPzzz
 * Ripple GitHub: https://github.com/osuripple
 
-We're using an MIT license, the same as Ripple which allows you to do basically anything with the code. 
+We're using an MIT [license](https://github.com/C-L-T/CatSu/blob/master/LICENSE), the same as Ripple which allows you to do basically anything with the code. 
 
 Thanks!
