@@ -21,4 +21,4 @@ Once again, huge thanks to the guys from the Ripple-Dev team, take a look at the
 
 We're using an MIT [license](https://github.com/C-L-T/CatSu/blob/master/LICENSE), the same as Ripple which allows you to do basically anything with the code. 
 
-Thanks!
+__Thanks!__
